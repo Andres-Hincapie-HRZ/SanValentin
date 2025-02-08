@@ -4,7 +4,9 @@ Una página web interactiva y elegante diseñada para hacer una propuesta especi
 
 ## 📸 Vista Previa
 
-![Vista previa del proyecto](img/preview.png)
+![image](https://github.com/user-attachments/assets/1a0c15a7-e88c-4066-b5f7-094574fa11c1)
+![image](https://github.com/user-attachments/assets/eab29914-7bf9-40d8-a288-91ebb88f744c)
+
 
 
 ## ✨ Características
